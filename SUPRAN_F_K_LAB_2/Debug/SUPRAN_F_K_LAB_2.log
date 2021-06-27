@@ -1,0 +1,4 @@
+﻿  SUPRAN_F_K_LAB_2.cpp
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_2\SUPRAN_F_K_LAB_2\SUPRAN_F_K_LAB_2.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_2\SUPRAN_F_K_LAB_2\SUPRAN_F_K_LAB_2.cpp(101,36): warning C4018: >=: несоответствие типов со знаком и без знака
+  SUPRAN_F_K_LAB_2.vcxproj -> D:\Visual Studio Applications\C++ Applications\SUPRAN_F_K_LAB_2\Debug\SUPRAN_F_K_LAB_2.exe
